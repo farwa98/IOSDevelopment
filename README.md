@@ -1,11 +1,11 @@
 # IOSDevelopment
-# Prework - Change Backround App
+# Prework - Change Background App
 
 Submitted by: Farwa Ameer
 
-Change Backround App is an app that changes the background color when the button is clicked.
+Change Background App is an app that changes the background color when the button is clicked.
 
-Time spent: 1 hours spent in total
+Time spent: 1 hour spent in total
 
 ## Required Features
 
@@ -21,7 +21,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-Tiktok- contains various videos and easy to use.
+TikTok- contains various videos and is easy to use.
 Instagram- love the reels and love to post on it.
 YouTube- has all types of content and easy to use. 
 
