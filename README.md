@@ -16,9 +16,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+![Kapture 2025-01-22 at 22 49 23](https://github.com/user-attachments/assets/5446b1df-b805-41cf-8363-be9ad45e5c02)
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 TikTok- contains various videos and is easy to use.
